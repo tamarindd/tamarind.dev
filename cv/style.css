@@ -21,9 +21,32 @@ body {
 
 .title {
     color: orangered;
-    font-weight: bold;
+    font-weight: none;
     font-size: 18px;
     margin-top: 5px;
+}
+
+.contact-icon {
+    width: 15px;
+}
+
+.contact-section {
+    margin-top: 15px;
+}
+
+.contact-icon-container {
+    align-content: center;
+}
+
+/* 
+#phone-icon {
+    padding-left: 5px;
+} */
+
+.contact-info {
+    vertical-align: middle;
+    font-size: 14px;
+    padding-left: 7px;
 }
 
 .heading {
